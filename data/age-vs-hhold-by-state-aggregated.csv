@@ -1,0 +1,409 @@
+"state","hhold_size_cat","AGE5P","number_of_people"
+"Australian Capital Territory","Single","0_4",65
+"Australian Capital Territory","Single","5_9",78
+"Australian Capital Territory","Single","10_14",69
+"Australian Capital Territory","Single","15_19",259
+"Australian Capital Territory","Single","20_24",1885
+"Australian Capital Territory","Single","25_29",3973
+"Australian Capital Territory","Single","30_34",4050
+"Australian Capital Territory","Single","35_39",3396
+"Australian Capital Territory","Single","40_44",2697
+"Australian Capital Territory","Single","45_49",2806
+"Australian Capital Territory","Single","50_54",3165
+"Australian Capital Territory","Single","55_59",3446
+"Australian Capital Territory","Single","60_64",3714
+"Australian Capital Territory","Single","65_69",3521
+"Australian Capital Territory","Single","70_74",3645
+"Australian Capital Territory","Single","75_79",2781
+"Australian Capital Territory","Single","80+",4361
+"Australian Capital Territory","Medium (2 - 5 people)","0_4",21956
+"Australian Capital Territory","Medium (2 - 5 people)","5_9",23818
+"Australian Capital Territory","Medium (2 - 5 people)","10_14",21687
+"Australian Capital Territory","Medium (2 - 5 people)","15_19",19202
+"Australian Capital Territory","Medium (2 - 5 people)","20_24",24642
+"Australian Capital Territory","Medium (2 - 5 people)","25_29",29693
+"Australian Capital Territory","Medium (2 - 5 people)","30_34",29451
+"Australian Capital Territory","Medium (2 - 5 people)","35_39",29115
+"Australian Capital Territory","Medium (2 - 5 people)","40_44",25332
+"Australian Capital Territory","Medium (2 - 5 people)","45_49",23116
+"Australian Capital Territory","Medium (2 - 5 people)","50_54",20836
+"Australian Capital Territory","Medium (2 - 5 people)","55_59",18014
+"Australian Capital Territory","Medium (2 - 5 people)","60_64",15437
+"Australian Capital Territory","Medium (2 - 5 people)","65_69",12756
+"Australian Capital Territory","Medium (2 - 5 people)","70_74",11520
+"Australian Capital Territory","Medium (2 - 5 people)","75_79",7459
+"Australian Capital Territory","Medium (2 - 5 people)","80+",7107
+"Australian Capital Territory","Large (6+ people)","0_4",2464
+"Australian Capital Territory","Large (6+ people)","5_9",3188
+"Australian Capital Territory","Large (6+ people)","10_14",3453
+"Australian Capital Territory","Large (6+ people)","15_19",2565
+"Australian Capital Territory","Large (6+ people)","20_24",1922
+"Australian Capital Territory","Large (6+ people)","25_29",1802
+"Australian Capital Territory","Large (6+ people)","30_34",1796
+"Australian Capital Territory","Large (6+ people)","35_39",2096
+"Australian Capital Territory","Large (6+ people)","40_44",1846
+"Australian Capital Territory","Large (6+ people)","45_49",1494
+"Australian Capital Territory","Large (6+ people)","50_54",979
+"Australian Capital Territory","Large (6+ people)","55_59",566
+"Australian Capital Territory","Large (6+ people)","60_64",365
+"Australian Capital Territory","Large (6+ people)","65_69",369
+"Australian Capital Territory","Large (6+ people)","70_74",288
+"Australian Capital Territory","Large (6+ people)","75_79",164
+"Australian Capital Territory","Large (6+ people)","80+",168
+"New South Wales","Single","0_4",1434
+"New South Wales","Single","5_9",1631
+"New South Wales","Single","10_14",1687
+"New South Wales","Single","15_19",4319
+"New South Wales","Single","20_24",22715
+"New South Wales","Single","25_29",40925
+"New South Wales","Single","30_34",44709
+"New South Wales","Single","35_39",40413
+"New South Wales","Single","40_44",35778
+"New South Wales","Single","45_49",40417
+"New South Wales","Single","50_54",48388
+"New South Wales","Single","55_59",61099
+"New South Wales","Single","60_64",71628
+"New South Wales","Single","65_69",71059
+"New South Wales","Single","70_74",71022
+"New South Wales","Single","75_79",58448
+"New South Wales","Single","80+",96310
+"New South Wales","Medium (2 - 5 people)","0_4",357830
+"New South Wales","Medium (2 - 5 people)","5_9",370425
+"New South Wales","Medium (2 - 5 people)","10_14",366911
+"New South Wales","Medium (2 - 5 people)","15_19",339505
+"New South Wales","Medium (2 - 5 people)","20_24",365769
+"New South Wales","Medium (2 - 5 people)","25_29",414319
+"New South Wales","Medium (2 - 5 people)","30_34",443061
+"New South Wales","Medium (2 - 5 people)","35_39",437630
+"New South Wales","Medium (2 - 5 people)","40_44",392858
+"New South Wales","Medium (2 - 5 people)","45_49",390937
+"New South Wales","Medium (2 - 5 people)","50_54",377489
+"New South Wales","Medium (2 - 5 people)","55_59",360799
+"New South Wales","Medium (2 - 5 people)","60_64",334489
+"New South Wales","Medium (2 - 5 people)","65_69",283858
+"New South Wales","Medium (2 - 5 people)","70_74",244726
+"New South Wales","Medium (2 - 5 people)","75_79",165394
+"New South Wales","Medium (2 - 5 people)","80+",169304
+"New South Wales","Large (6+ people)","0_4",63061
+"New South Wales","Large (6+ people)","5_9",82215
+"New South Wales","Large (6+ people)","10_14",87426
+"New South Wales","Large (6+ people)","15_19",69119
+"New South Wales","Large (6+ people)","20_24",48448
+"New South Wales","Large (6+ people)","25_29",36576
+"New South Wales","Large (6+ people)","30_34",38243
+"New South Wales","Large (6+ people)","35_39",46887
+"New South Wales","Large (6+ people)","40_44",45745
+"New South Wales","Large (6+ people)","45_49",38998
+"New South Wales","Large (6+ people)","50_54",28396
+"New South Wales","Large (6+ people)","55_59",20084
+"New South Wales","Large (6+ people)","60_64",16287
+"New South Wales","Large (6+ people)","65_69",14263
+"New South Wales","Large (6+ people)","70_74",10826
+"New South Wales","Large (6+ people)","75_79",6427
+"New South Wales","Large (6+ people)","80+",6861
+"Northern Territory","Single","0_4",64
+"Northern Territory","Single","5_9",40
+"Northern Territory","Single","10_14",47
+"Northern Territory","Single","15_19",145
+"Northern Territory","Single","20_24",813
+"Northern Territory","Single","25_29",1419
+"Northern Territory","Single","30_34",1454
+"Northern Territory","Single","35_39",1183
+"Northern Territory","Single","40_44",1028
+"Northern Territory","Single","45_49",1230
+"Northern Territory","Single","50_54",1484
+"Northern Territory","Single","55_59",1676
+"Northern Territory","Single","60_64",1700
+"Northern Territory","Single","65_69",1604
+"Northern Territory","Single","70_74",1285
+"Northern Territory","Single","75_79",689
+"Northern Territory","Single","80+",721
+"Northern Territory","Medium (2 - 5 people)","0_4",9558
+"Northern Territory","Medium (2 - 5 people)","5_9",9282
+"Northern Territory","Medium (2 - 5 people)","10_14",8374
+"Northern Territory","Medium (2 - 5 people)","15_19",6951
+"Northern Territory","Medium (2 - 5 people)","20_24",7729
+"Northern Territory","Medium (2 - 5 people)","25_29",11707
+"Northern Territory","Medium (2 - 5 people)","30_34",12892
+"Northern Territory","Medium (2 - 5 people)","35_39",11614
+"Northern Territory","Medium (2 - 5 people)","40_44",9655
+"Northern Territory","Medium (2 - 5 people)","45_49",8703
+"Northern Territory","Medium (2 - 5 people)","50_54",8619
+"Northern Territory","Medium (2 - 5 people)","55_59",7496
+"Northern Territory","Medium (2 - 5 people)","60_64",6278
+"Northern Territory","Medium (2 - 5 people)","65_69",4734
+"Northern Territory","Medium (2 - 5 people)","70_74",3485
+"Northern Territory","Medium (2 - 5 people)","75_79",1854
+"Northern Territory","Medium (2 - 5 people)","80+",1435
+"Northern Territory","Large (6+ people)","0_4",2432
+"Northern Territory","Large (6+ people)","5_9",3114
+"Northern Territory","Large (6+ people)","10_14",3059
+"Northern Territory","Large (6+ people)","15_19",2623
+"Northern Territory","Large (6+ people)","20_24",1890
+"Northern Territory","Large (6+ people)","25_29",1841
+"Northern Territory","Large (6+ people)","30_34",1915
+"Northern Territory","Large (6+ people)","35_39",1935
+"Northern Territory","Large (6+ people)","40_44",1652
+"Northern Territory","Large (6+ people)","45_49",1371
+"Northern Territory","Large (6+ people)","50_54",1062
+"Northern Territory","Large (6+ people)","55_59",690
+"Northern Territory","Large (6+ people)","60_64",581
+"Northern Territory","Large (6+ people)","65_69",414
+"Northern Territory","Large (6+ people)","70_74",262
+"Northern Territory","Large (6+ people)","75_79",121
+"Northern Territory","Large (6+ people)","80+",111
+"Queensland","Single","0_4",917
+"Queensland","Single","5_9",1031
+"Queensland","Single","10_14",1006
+"Queensland","Single","15_19",3634
+"Queensland","Single","20_24",17670
+"Queensland","Single","25_29",27145
+"Queensland","Single","30_34",26303
+"Queensland","Single","35_39",24390
+"Queensland","Single","40_44",22892
+"Queensland","Single","45_49",27501
+"Queensland","Single","50_54",33987
+"Queensland","Single","55_59",41141
+"Queensland","Single","60_64",45848
+"Queensland","Single","65_69",45887
+"Queensland","Single","70_74",45777
+"Queensland","Single","75_79",36433
+"Queensland","Single","80+",53734
+"Queensland","Medium (2 - 5 people)","0_4",222941
+"Queensland","Medium (2 - 5 people)","5_9",242576
+"Queensland","Medium (2 - 5 people)","10_14",247959
+"Queensland","Medium (2 - 5 people)","15_19",228110
+"Queensland","Medium (2 - 5 people)","20_24",235425
+"Queensland","Medium (2 - 5 people)","25_29",254016
+"Queensland","Medium (2 - 5 people)","30_34",262255
+"Queensland","Medium (2 - 5 people)","35_39",265120
+"Queensland","Medium (2 - 5 people)","40_44",246421
+"Queensland","Medium (2 - 5 people)","45_49",255409
+"Queensland","Medium (2 - 5 people)","50_54",248758
+"Queensland","Medium (2 - 5 people)","55_59",228728
+"Queensland","Medium (2 - 5 people)","60_64",209082
+"Queensland","Medium (2 - 5 people)","65_69",179394
+"Queensland","Medium (2 - 5 people)","70_74",158211
+"Queensland","Medium (2 - 5 people)","75_79",104876
+"Queensland","Medium (2 - 5 people)","80+",93828
+"Queensland","Large (6+ people)","0_4",40007
+"Queensland","Large (6+ people)","5_9",54429
+"Queensland","Large (6+ people)","10_14",59549
+"Queensland","Large (6+ people)","15_19",44193
+"Queensland","Large (6+ people)","20_24",25169
+"Queensland","Large (6+ people)","25_29",18885
+"Queensland","Large (6+ people)","30_34",22141
+"Queensland","Large (6+ people)","35_39",27750
+"Queensland","Large (6+ people)","40_44",26166
+"Queensland","Large (6+ people)","45_49",21014
+"Queensland","Large (6+ people)","50_54",14046
+"Queensland","Large (6+ people)","55_59",9362
+"Queensland","Large (6+ people)","60_64",7856
+"Queensland","Large (6+ people)","65_69",6576
+"Queensland","Large (6+ people)","70_74",5262
+"Queensland","Large (6+ people)","75_79",2982
+"Queensland","Large (6+ people)","80+",2532
+"South Australia","Single","0_4",337
+"South Australia","Single","5_9",454
+"South Australia","Single","10_14",413
+"South Australia","Single","15_19",1276
+"South Australia","Single","20_24",5895
+"South Australia","Single","25_29",9886
+"South Australia","Single","30_34",10262
+"South Australia","Single","35_39",9689
+"South Australia","Single","40_44",8910
+"South Australia","Single","45_49",10942
+"South Australia","Single","50_54",14359
+"South Australia","Single","55_59",17659
+"South Australia","Single","60_64",20235
+"South Australia","Single","65_69",19967
+"South Australia","Single","70_74",19738
+"South Australia","Single","75_79",15731
+"South Australia","Single","80+",28054
+"South Australia","Medium (2 - 5 people)","0_4",75444
+"South Australia","Medium (2 - 5 people)","5_9",80962
+"South Australia","Medium (2 - 5 people)","10_14",81017
+"South Australia","Medium (2 - 5 people)","15_19",76424
+"South Australia","Medium (2 - 5 people)","20_24",83281
+"South Australia","Medium (2 - 5 people)","25_29",89673
+"South Australia","Medium (2 - 5 people)","30_34",90982
+"South Australia","Medium (2 - 5 people)","35_39",91230
+"South Australia","Medium (2 - 5 people)","40_44",82168
+"South Australia","Medium (2 - 5 people)","45_49",83289
+"South Australia","Medium (2 - 5 people)","50_54",85779
+"South Australia","Medium (2 - 5 people)","55_59",82496
+"South Australia","Medium (2 - 5 people)","60_64",78290
+"South Australia","Medium (2 - 5 people)","65_69",68628
+"South Australia","Medium (2 - 5 people)","70_74",61356
+"South Australia","Medium (2 - 5 people)","75_79",41095
+"South Australia","Medium (2 - 5 people)","80+",39735
+"South Australia","Large (6+ people)","0_4",10133
+"South Australia","Large (6+ people)","5_9",13865
+"South Australia","Large (6+ people)","10_14",15078
+"South Australia","Large (6+ people)","15_19",11587
+"South Australia","Large (6+ people)","20_24",7589
+"South Australia","Large (6+ people)","25_29",5423
+"South Australia","Large (6+ people)","30_34",5707
+"South Australia","Large (6+ people)","35_39",7471
+"South Australia","Large (6+ people)","40_44",7159
+"South Australia","Large (6+ people)","45_49",5644
+"South Australia","Large (6+ people)","50_54",3809
+"South Australia","Large (6+ people)","55_59",2318
+"South Australia","Large (6+ people)","60_64",1773
+"South Australia","Large (6+ people)","65_69",1396
+"South Australia","Large (6+ people)","70_74",1001
+"South Australia","Large (6+ people)","75_79",553
+"South Australia","Large (6+ people)","80+",514
+"Tasmania","Single","0_4",121
+"Tasmania","Single","5_9",111
+"Tasmania","Single","10_14",139
+"Tasmania","Single","15_19",417
+"Tasmania","Single","20_24",1667
+"Tasmania","Single","25_29",2944
+"Tasmania","Single","30_34",2842
+"Tasmania","Single","35_39",2651
+"Tasmania","Single","40_44",2513
+"Tasmania","Single","45_49",3325
+"Tasmania","Single","50_54",4469
+"Tasmania","Single","55_59",5888
+"Tasmania","Single","60_64",6961
+"Tasmania","Single","65_69",6952
+"Tasmania","Single","70_74",6880
+"Tasmania","Single","75_79",5252
+"Tasmania","Single","80+",8306
+"Tasmania","Medium (2 - 5 people)","0_4",21971
+"Tasmania","Medium (2 - 5 people)","5_9",23700
+"Tasmania","Medium (2 - 5 people)","10_14",24895
+"Tasmania","Medium (2 - 5 people)","15_19",22614
+"Tasmania","Medium (2 - 5 people)","20_24",23146
+"Tasmania","Medium (2 - 5 people)","25_29",29153
+"Tasmania","Medium (2 - 5 people)","30_34",28713
+"Tasmania","Medium (2 - 5 people)","35_39",25950
+"Tasmania","Medium (2 - 5 people)","40_44",23508
+"Tasmania","Medium (2 - 5 people)","45_49",24888
+"Tasmania","Medium (2 - 5 people)","50_54",26310
+"Tasmania","Medium (2 - 5 people)","55_59",26003
+"Tasmania","Medium (2 - 5 people)","60_64",25805
+"Tasmania","Medium (2 - 5 people)","65_69",22674
+"Tasmania","Medium (2 - 5 people)","70_74",19671
+"Tasmania","Medium (2 - 5 people)","75_79",12670
+"Tasmania","Medium (2 - 5 people)","80+",11382
+"Tasmania","Large (6+ people)","0_4",3089
+"Tasmania","Large (6+ people)","5_9",4316
+"Tasmania","Large (6+ people)","10_14",5013
+"Tasmania","Large (6+ people)","15_19",3618
+"Tasmania","Large (6+ people)","20_24",2084
+"Tasmania","Large (6+ people)","25_29",2227
+"Tasmania","Large (6+ people)","30_34",2280
+"Tasmania","Large (6+ people)","35_39",2511
+"Tasmania","Large (6+ people)","40_44",2064
+"Tasmania","Large (6+ people)","45_49",1613
+"Tasmania","Large (6+ people)","50_54",1103
+"Tasmania","Large (6+ people)","55_59",679
+"Tasmania","Large (6+ people)","60_64",513
+"Tasmania","Large (6+ people)","65_69",388
+"Tasmania","Large (6+ people)","70_74",257
+"Tasmania","Large (6+ people)","75_79",168
+"Tasmania","Large (6+ people)","80+",134
+"Victoria","Single","0_4",895
+"Victoria","Single","5_9",1305
+"Victoria","Single","10_14",1239
+"Victoria","Single","15_19",3338
+"Victoria","Single","20_24",20841
+"Victoria","Single","25_29",41512
+"Victoria","Single","30_34",45417
+"Victoria","Single","35_39",39503
+"Victoria","Single","40_44",33121
+"Victoria","Single","45_49",36011
+"Victoria","Single","50_54",42517
+"Victoria","Single","55_59",50095
+"Victoria","Single","60_64",56873
+"Victoria","Single","65_69",56935
+"Victoria","Single","70_74",55518
+"Victoria","Single","75_79",44816
+"Victoria","Single","80+",78012
+"Victoria","Medium (2 - 5 people)","0_4",299920
+"Victoria","Medium (2 - 5 people)","5_9",310683
+"Victoria","Medium (2 - 5 people)","10_14",297302
+"Victoria","Medium (2 - 5 people)","15_19",276606
+"Victoria","Medium (2 - 5 people)","20_24",307041
+"Victoria","Medium (2 - 5 people)","25_29",356558
+"Victoria","Medium (2 - 5 people)","30_34",382615
+"Victoria","Medium (2 - 5 people)","35_39",376042
+"Victoria","Medium (2 - 5 people)","40_44",328222
+"Victoria","Medium (2 - 5 people)","45_49",319578
+"Victoria","Medium (2 - 5 people)","50_54",313157
+"Victoria","Medium (2 - 5 people)","55_59",284525
+"Victoria","Medium (2 - 5 people)","60_64",257054
+"Victoria","Medium (2 - 5 people)","65_69",215866
+"Victoria","Medium (2 - 5 people)","70_74",185627
+"Victoria","Medium (2 - 5 people)","75_79",124525
+"Victoria","Medium (2 - 5 people)","80+",127361
+"Victoria","Large (6+ people)","0_4",41462
+"Victoria","Large (6+ people)","5_9",55825
+"Victoria","Large (6+ people)","10_14",59428
+"Victoria","Large (6+ people)","15_19",47816
+"Victoria","Large (6+ people)","20_24",35235
+"Victoria","Large (6+ people)","25_29",25739
+"Victoria","Large (6+ people)","30_34",24752
+"Victoria","Large (6+ people)","35_39",31386
+"Victoria","Large (6+ people)","40_44",30219
+"Victoria","Large (6+ people)","45_49",25553
+"Victoria","Large (6+ people)","50_54",18768
+"Victoria","Large (6+ people)","55_59",11875
+"Victoria","Large (6+ people)","60_64",8957
+"Victoria","Large (6+ people)","65_69",7471
+"Victoria","Large (6+ people)","70_74",5548
+"Victoria","Large (6+ people)","75_79",3187
+"Victoria","Large (6+ people)","80+",3380
+"Western Australia","Single","0_4",490
+"Western Australia","Single","5_9",575
+"Western Australia","Single","10_14",544
+"Western Australia","Single","15_19",1865
+"Western Australia","Single","20_24",9196
+"Western Australia","Single","25_29",15515
+"Western Australia","Single","30_34",16265
+"Western Australia","Single","35_39",14977
+"Western Australia","Single","40_44",13211
+"Western Australia","Single","45_49",14255
+"Western Australia","Single","50_54",17783
+"Western Australia","Single","55_59",21047
+"Western Australia","Single","60_64",23511
+"Western Australia","Single","65_69",23655
+"Western Australia","Single","70_74",23085
+"Western Australia","Single","75_79",17522
+"Western Australia","Single","80+",29224
+"Western Australia","Medium (2 - 5 people)","0_4",127412
+"Western Australia","Medium (2 - 5 people)","5_9",132080
+"Western Australia","Medium (2 - 5 people)","10_14",129071
+"Western Australia","Medium (2 - 5 people)","15_19",115749
+"Western Australia","Medium (2 - 5 people)","20_24",115680
+"Western Australia","Medium (2 - 5 people)","25_29",125301
+"Western Australia","Medium (2 - 5 people)","30_34",142467
+"Western Australia","Medium (2 - 5 people)","35_39",147660
+"Western Australia","Medium (2 - 5 people)","40_44",131472
+"Western Australia","Medium (2 - 5 people)","45_49",129352
+"Western Australia","Medium (2 - 5 people)","50_54",126952
+"Western Australia","Medium (2 - 5 people)","55_59",115804
+"Western Australia","Medium (2 - 5 people)","60_64",103246
+"Western Australia","Medium (2 - 5 people)","65_69",87799
+"Western Australia","Medium (2 - 5 people)","70_74",74215
+"Western Australia","Medium (2 - 5 people)","75_79",47614
+"Western Australia","Medium (2 - 5 people)","80+",46894
+"Western Australia","Large (6+ people)","0_4",17844
+"Western Australia","Large (6+ people)","5_9",23558
+"Western Australia","Large (6+ people)","10_14",25141
+"Western Australia","Large (6+ people)","15_19",18855
+"Western Australia","Large (6+ people)","20_24",11301
+"Western Australia","Large (6+ people)","25_29",7982
+"Western Australia","Large (6+ people)","30_34",9688
+"Western Australia","Large (6+ people)","35_39",12172
+"Western Australia","Large (6+ people)","40_44",11511
+"Western Australia","Large (6+ people)","45_49",9087
+"Western Australia","Large (6+ people)","50_54",6209
+"Western Australia","Large (6+ people)","55_59",3942
+"Western Australia","Large (6+ people)","60_64",2989
+"Western Australia","Large (6+ people)","65_69",2487
+"Western Australia","Large (6+ people)","70_74",1860
+"Western Australia","Large (6+ people)","75_79",978
+"Western Australia","Large (6+ people)","80+",851

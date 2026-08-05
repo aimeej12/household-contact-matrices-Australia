@@ -1,0 +1,103 @@
+"ref_CALD","hhold_size_cat","AGE5P","number_of_people"
+"CALD","Single","0_4",952
+"CALD","Single","5_9",1108
+"CALD","Single","10_14",1052
+"CALD","Single","15_19",3042
+"CALD","Single","20_24",21095
+"CALD","Single","25_29",39799
+"CALD","Single","30_34",45978
+"CALD","Single","35_39",41357
+"CALD","Single","40_44",32446
+"CALD","Single","45_49",30233
+"CALD","Single","50_54",33684
+"CALD","Single","55_59",40680
+"CALD","Single","60_64",45456
+"CALD","Single","65_69",47519
+"CALD","Single","70_74",50751
+"CALD","Single","75_79",39009
+"CALD","Single","80+",68888
+"CALD","Medium (2 - 5 people)","0_4",371614
+"CALD","Medium (2 - 5 people)","5_9",390736
+"CALD","Medium (2 - 5 people)","10_14",340996
+"CALD","Medium (2 - 5 people)","15_19",301614
+"CALD","Medium (2 - 5 people)","20_24",366138
+"CALD","Medium (2 - 5 people)","25_29",448957
+"CALD","Medium (2 - 5 people)","30_34",526234
+"CALD","Medium (2 - 5 people)","35_39",548673
+"CALD","Medium (2 - 5 people)","40_44",448019
+"CALD","Medium (2 - 5 people)","45_49",373536
+"CALD","Medium (2 - 5 people)","50_54",335075
+"CALD","Medium (2 - 5 people)","55_59",307581
+"CALD","Medium (2 - 5 people)","60_64",268311
+"CALD","Medium (2 - 5 people)","65_69",227498
+"CALD","Medium (2 - 5 people)","70_74",196787
+"CALD","Medium (2 - 5 people)","75_79",128715
+"CALD","Medium (2 - 5 people)","80+",150088
+"CALD","Large (6+ people)","0_4",82435
+"CALD","Large (6+ people)","5_9",102338
+"CALD","Large (6+ people)","10_14",102063
+"CALD","Large (6+ people)","15_19",83648
+"CALD","Large (6+ people)","20_24",71828
+"CALD","Large (6+ people)","25_29",61249
+"CALD","Large (6+ people)","30_34",58582
+"CALD","Large (6+ people)","35_39",66442
+"CALD","Large (6+ people)","40_44",59941
+"CALD","Large (6+ people)","45_49",47131
+"CALD","Large (6+ people)","50_54",35046
+"CALD","Large (6+ people)","55_59",25540
+"CALD","Large (6+ people)","60_64",20306
+"CALD","Large (6+ people)","65_69",18085
+"CALD","Large (6+ people)","70_74",13157
+"CALD","Large (6+ people)","75_79",7440
+"CALD","Large (6+ people)","80+",8263
+"Not CALD","Single","0_4",3371
+"Not CALD","Single","5_9",4117
+"Not CALD","Single","10_14",4092
+"Not CALD","Single","15_19",12215
+"Not CALD","Single","20_24",59576
+"Not CALD","Single","25_29",103527
+"Not CALD","Single","30_34",105317
+"Not CALD","Single","35_39",94850
+"Not CALD","Single","40_44",87708
+"Not CALD","Single","45_49",106255
+"Not CALD","Single","50_54",132467
+"Not CALD","Single","55_59",161370
+"Not CALD","Single","60_64",185019
+"Not CALD","Single","65_69",182065
+"Not CALD","Single","70_74",176202
+"Not CALD","Single","75_79",142662
+"Not CALD","Single","80+",229829
+"Not CALD","Medium (2 - 5 people)","0_4",765414
+"Not CALD","Medium (2 - 5 people)","5_9",802799
+"Not CALD","Medium (2 - 5 people)","10_14",836228
+"Not CALD","Medium (2 - 5 people)","15_19",783551
+"Not CALD","Medium (2 - 5 people)","20_24",796576
+"Not CALD","Medium (2 - 5 people)","25_29",861464
+"Not CALD","Medium (2 - 5 people)","30_34",866205
+"Not CALD","Medium (2 - 5 people)","35_39",835690
+"Not CALD","Medium (2 - 5 people)","40_44",791619
+"Not CALD","Medium (2 - 5 people)","45_49",861733
+"Not CALD","Medium (2 - 5 people)","50_54",872828
+"Not CALD","Medium (2 - 5 people)","55_59",816287
+"Not CALD","Medium (2 - 5 people)","60_64",761375
+"Not CALD","Medium (2 - 5 people)","65_69",648214
+"Not CALD","Medium (2 - 5 people)","70_74",562030
+"Not CALD","Medium (2 - 5 people)","75_79",376770
+"Not CALD","Medium (2 - 5 people)","80+",346952
+"Not CALD","Large (6+ people)","0_4",98056
+"Not CALD","Large (6+ people)","5_9",138173
+"Not CALD","Large (6+ people)","10_14",156066
+"Not CALD","Large (6+ people)","15_19",116735
+"Not CALD","Large (6+ people)","20_24",61806
+"Not CALD","Large (6+ people)","25_29",39227
+"Not CALD","Large (6+ people)","30_34",47934
+"Not CALD","Large (6+ people)","35_39",65766
+"Not CALD","Large (6+ people)","40_44",66429
+"Not CALD","Large (6+ people)","45_49",57647
+"Not CALD","Large (6+ people)","50_54",39324
+"Not CALD","Large (6+ people)","55_59",23977
+"Not CALD","Large (6+ people)","60_64",19018
+"Not CALD","Large (6+ people)","65_69",15279
+"Not CALD","Large (6+ people)","70_74",12152
+"Not CALD","Large (6+ people)","75_79",7144
+"Not CALD","Large (6+ people)","80+",6285
