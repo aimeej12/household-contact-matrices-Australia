@@ -194,7 +194,9 @@ census_p <- census_p %>%
 
 # Remove single households ------------------------------------------------
 
-
+# In the original analysis, households of size 1 were included in population
+# summaries but not matrices. In the revised analysis, households of size 1 
+# were included
 # Remove people in households of size 1
 census_p <- census_p %>%
   filter(NPRD != "1")
