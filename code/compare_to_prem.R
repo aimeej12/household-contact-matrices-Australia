@@ -9,6 +9,9 @@
 
 # Load --------------------------------------------------------------------
 
+# Clear environment
+rm(list=ls())
+
 # install.packages("contactdata")
 library(contactdata)  
 library(tidyverse)
@@ -26,8 +29,11 @@ prem_mat <- contact_matrix(country = "Australia",
                data_source = 2017)
 
 # Load our matrix - available in supplementary material
-australia_df <- read.csv("supplement-matrices/SuppTab01_contact-matrix-australia.csv")
+australia_df <- read.csv("output/result-matrices/SuppTab01_contact-matrix-Australia.csv")
 
+
+# Load population sizes
+hhold_size <- read_csv("data/age-vs-household-aggregated.csv")
 
 # Clean -------------------------------------------------------------------
 
@@ -286,8 +292,76 @@ combined_p <-  ggdraw(my_row) +
 
 combined_p
 
-# Save --------------------------------------------------------------------
+# Compare average hhold contacts ------------------------------------------
+
+#' Here we use the matrices and population counts to calculate the overall
+#' average household contacts. We do this by calculating the total household
+#' contacts and dividing it by the population size.
+
+#' Although we note they are estimating different things, we compare our
+#' estimates to Prem's
+#' Prem = average contacts in the home, 
+#' Our matrix = average number who co-reside
+
+#' Since the Prem matrix ends at age band 75-80, we will exclude our 80+ estimates
+
+# Define population sizes
+popsize <- hhold_size %>% 
+  group_by(AGE5P) %>% 
+  summarise(total_people = sum(number_of_people)) %>% 
+  ungroup()
+
+# Define order of ages
+popsize <- popsize %>% 
+  mutate(AGE5P = factor(AGE5P,
+                        levels = age_levels)) %>% 
+  arrange(AGE5P)
+
+# Create diagonal matrix of popsize
+Nid <- popsize %>% 
+  # Remove 80+ since not in Prem
+  filter(AGE5P != "80+") %>% 
+  select(-AGE5P) %>% 
+  pull(total_people) %>% 
+  diag()
+
+# Create column matrix of popsize
+Ni <- popsize %>% 
+  # Remove 80+ since not in Prem
+  filter(AGE5P != "80+") %>% 
+  select(-AGE5P) %>% 
+  pull(total_people) %>% 
+  as.matrix()
+
+#' If cij is average contacts a person in group i has with people in group j
+#' then cijNi is total contacts people in group i have with people in group j
+#' This is obtained by left-multiplying the diagonal matrix: NC
+#' Then if we multiply this by a column matrix of 1s, we get a column matrix
+#' with the sum over all the js. 
+#' Row i of the resulting column matrix has the total contacts of people in age group i
+
+
+# Column matrix of 1s
+icol <- matrix(rep(1, times = 16), nrow = 16)
+
+total_by_age_prem <- Nid %*% prem_mat %*% icol
+
+total_by_age_aus <- Nid %*% aus_mat %*% icol
+
+
+# Add up the resultant column matrix to get total household contacts in the population
+total_contacts_prem <- t(icol) %*% total_by_age_prem
+total_contacts_aus <- t(icol) %*% total_by_age_aus
+
+# Avergae household contacts = total household contacts / population size
+total_people <- t(icol) %*% Ni
+
+total_contacts_prem/total_people # 3.4
+total_contacts_aus/total_people # 2.3
+
+
+# Save plots --------------------------------------------------------------
 
 ggsave(combined_p,
-       filename = "output/contact-matrices/plots/Fig_3_compare_to_prem.jpg",
+       filename = "output/plots/Fig_3_compare_to_prem.jpg",
        height = 15, width = 30, units = 'cm', dpi = 300)
